@@ -10,7 +10,7 @@
 
 
 ## Demo
-Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-api.herokuapp.com/)
+Link: [https://airline-fare-predictor.herokuapp.com/](https://airline-fare-predictor.herokuapp.com/)
 
 ## Overview
 This is a Flask web app which predicts fare of Flight ticket.
